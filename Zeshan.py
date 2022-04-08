@@ -410,9 +410,9 @@ def menu():
 
     print("")
 
-    menu_select()
+    pilih_super()
 
-def menu_select():
+def pilih_super():
 
 	select = raw_input("\033[1;93mOption : ")
 
